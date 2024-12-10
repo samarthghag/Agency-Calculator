@@ -1,0 +1,21 @@
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\bin\Debug\net8.0-windows\Angeny Calculator.exe
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\bin\Debug\net8.0-windows\Angeny Calculator.deps.json
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\bin\Debug\net8.0-windows\Angeny Calculator.runtimeconfig.json
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\bin\Debug\net8.0-windows\Angeny Calculator.dll
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\bin\Debug\net8.0-windows\Angeny Calculator.pdb
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny_Calculator.Form1.resources
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny_Calculator.Properties.Resources.resources
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.csproj.GenerateResource.cache
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.AssemblyInfoInputs.cache
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.AssemblyInfo.cs
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.dll
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\refint\Angeny Calculator.dll
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.pdb
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny Calculator.genruntimeconfig.cache
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\ref\Angeny Calculator.dll
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny_Calculator.Hourly_Rate_Calculator_Form.resources
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny_Calculator.Project_Cost_Estimator.resources
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny_Calculator.DigitalAdBudgetCalculator.resources
+C:\Users\Samarth\source\repos\Angeny Calculator\Angeny Calculator\obj\Debug\net8.0-windows\Angeny_Calculator.Tax_Calculator.resources
